@@ -1,5 +1,5 @@
 class hello{  
-    public static void main(String args[]){  
-     Sykshyastem.out.println("Hello Javaddd");  
-    }  
-}  
+    public static void main(String args[])
+    System.out.println("Hello JavadddDeeepak")
+ }  
+  
